@@ -1,0 +1,52 @@
+body{background-color: rgb(223, 217, 211); font-family: "Roboto", sans-serif;    
+background-image: url(bg.jpg);
+height: 260vh; background-position: center; background-repeat: no-repeat;
+}
+
+
+.header{background-color: blue; width: 100%; position: sticky; top: 0; padding: 0.2rem;}
+#ul{list-style: none; display: flex; justify-content: center;} #ul a{ text-decoration: none;color: aliceblue; margin: 0.5rem; }
+#card{padding: 2rem; margin: 2rem; background-color: rgb(249, 251, 253);
+border-radius: 0.5rem; box-shadow: 0.2rem 0.4rem;}
+
+.About__Internet{height: 85vh; background-image: url(laptop1.jpg);
+background-position: center;
+background-repeat: no-repeat ;
+background-size: cover;}
+.About__Internet h2{ color: blue;}
+.About__Internet p{color: rgb(231, 160, 160);}
+.Skills  h2 {color: blue; 
+
+}
+.Skills {background-image: url(computer.jpg);background-position: center;
+    background-repeat: no-repeat ;
+    background-size: cover;height: 55vh;
+}
+.Skills table tr td {color: gray; }
+.Skills table{width: 100%;
+    border-collapse: collapse; margin: 1.2rem 0;
+}
+button{
+    padding: 0.4rem 0.3rem;
+    margin: 0rem 0.2rem;
+}
+.followme{
+     padding: 1rem 1rem; margin: 0.5rem 0rem; width: 100%;
+display: flex; gap: 1rem ; justify-content: center; 
+width: 100%; background-position: center ; background-repeat: no-repeat;background-image: none;
+height: 23;}
+.Aboutme { background-image: url(sg.jpg);height: 85vh;background-position: center;
+    background-repeat: no-repeat ; 
+background-size: cover;
+}
+ .Aboutme h4{color: blue;}
+.Aboutme p { color: rgb(221, 144, 144);
+}
+.Connact { background-image: url(cs.jpg);background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Connact h2{color: blue;}
+ 
+
+
