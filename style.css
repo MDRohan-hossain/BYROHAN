@@ -1,6 +1,6 @@
 body{background-color: rgb(223, 217, 211); font-family: "Roboto", sans-serif;    
 background-image: url(bg.jpg);
-height: 260vh; background-position: center; background-repeat: no-repeat;
+height: 300vh; background-position: center; background-repeat: no-repeat;
 }
 
 
@@ -46,7 +46,15 @@ background-size: cover;
     background-repeat: no-repeat;
     background-size: cover;
 }
-.Connact h2{color: blue;}
- 
-
+.Connact h2{color: blue; }
+ .Connact form input {width: 100%; gap: 0.5rem; padding: 0.4rem; border-radius: 0.5rem;}
+ .Connact #option {width: 100%; padding: 1rem; }
+ #Massage{border-radius: 0.5rem;}
+#Subject{border-radius: 0.5rem;}
+#Submit{border-radius: 0.5rem;}
+#Clear{border-radius: 0.5rem;}
+.Connact h2 {
+    display: flex; justify-content: center; align-items: center;
+}
+.Skills h2 {display: flex;justify-content: center; text-align: center;}
 
